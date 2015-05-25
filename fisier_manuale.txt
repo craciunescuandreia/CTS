@@ -1,0 +1,4 @@
+categorie1,321654987654,titlu1,20.0,2.0
+Nume1,101,Nume2,101,Nume3,103,
+categorie2,355654987654,titlu2,80.0,2.0
+Nume1,101,Nume2,101,Nume3,103,
